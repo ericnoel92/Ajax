@@ -1,3 +1,6 @@
+<div>
+  <img src="pi.png">
+</div>
 # Convertisseur de Devises
 
 Ce projet est un convertisseur de devises simple réalisé en HTML, CSS et JavaScript. Il permet aux utilisateurs de convertir un montant d'une devise à une autre.
